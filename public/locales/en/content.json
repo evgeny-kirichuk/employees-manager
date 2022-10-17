@@ -1,0 +1,40 @@
+{
+    "show_unemployed": "show unemployed only",
+    "crash_message": "Something went wrong",
+    "return": "Return",
+    "no_internet_connection": "No internet connection",
+    "check_your_internet_connection": "Please check your internet connection and try again",
+    "okay": "Okay",
+    "add_user": "Add user",
+    "add_company": "Add company",
+    "enter_company_name": "Enter the company name",
+    "enter_user_name": "Enter the user name",
+    "not_employed": "Not employed",
+    "tools": {
+        "routing_title": "Routing",
+        "routing_users": "Users",
+        "routing_companies": "Companies",
+        "crash_title": "Crash screen",
+        "crash_button_text": "Crash the app",
+        "internationalization_title": "Internationalization",
+        "internationalization_ru": "ru",
+        "internationalization_eng": "eng",
+        "pwa_title": "Basic PWA setup",
+        "theming_title": "Theming",
+        "internet_connection_handler": "\"No internet\" screen",
+        "lighthouse_title": "Green Lighthouse based",
+        "read_more": "Read more"
+    },
+    "aria_label": {
+        "home_link": "open root page",
+        "theme_switcher": "change color scheme",
+        "copy_install": "copy install command",
+        "command_copied": "command is copied to the clipboard",
+        "navigate_to_users": "navigate to users page",
+        "navigate_to_companies": "navigate to companies page",
+        "change_language_to_ru": "change the language to russian",
+        "change_language_to_eng": "change the language to english",
+        "link_to_article": "open the medium article about the app",
+        "author_link": "open author github"
+    }
+}

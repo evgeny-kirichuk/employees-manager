@@ -1,0 +1,38 @@
+.root {
+  display: grid;
+  grid-template-columns: 1fr max-content;
+  grid-gap: var(--spacing-M);
+  margin-bottom: var(--spacing-L);
+
+  button {
+    height: 100%;
+  }
+
+  .wrapper {
+    background: var(--color-background-dark);
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: var(--spacing-M);
+    grid-template-rows: 40px;
+    border-radius: 5px;
+    padding: 0 var(--spacing-M);
+  }
+
+  .styledInput {
+    width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: var(--color-text-contrast);
+    font-size: var(--font-size-S)
+  }
+
+  .styledSelect {
+    background: transparent;
+    border: none;
+    color: var(--color-text-contrast);
+    outline: none;
+  }
+
+
+}

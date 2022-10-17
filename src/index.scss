@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+@import './themeVariables.scss';
+
+//body {
+//	font-family: 'Montserrat', sans-serif;
+//	margin: 0;
+//	min-width: 330px;
+//}
+
+body,
+#root {
+	background: var(--color-background-light);
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+	min-width: 330px;
+
+	height: 100vh;
+	min-height: -webkit-fill-available;
+}

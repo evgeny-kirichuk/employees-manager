@@ -1,0 +1,28 @@
+.wrapper {
+  background: var(--color-background-dark);
+  display: grid;
+  grid-template-columns: 1fr minmax(60px, 120px);
+  grid-gap: var(--spacing-M);
+  grid-template-rows: 40px;
+  align-items: center;
+  border-radius: 5px;
+  padding: var(--spacing-S) var(--spacing-M);
+
+  .styledSpan {
+    border-right: 2px solid var(--color-outline-active);
+    color: var(--color-text-contrast);
+    font-size: var(--font-size-S);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .styledSelect {
+    background: transparent;
+    border: none;
+    color: var(--color-text-contrast);
+    outline: none;
+    font-size: var(--font-size-XS)
+  }
+
+}

@@ -1,0 +1,41 @@
+{
+    "show_unemployed": "показать только нетрудоустроенных",
+    "break_the_app": "Сломать прилоежение",
+    "crash_message": "Что-то сломалось",
+    "return": "Назад",
+    "no_internet_connection": "Нет интернета",
+    "check_your_internet_connection": "Проверьте ваше интернет-соединение",
+    "okay": "Хорошо",
+    "add_user": "Добавить пользователя",
+    "add_company": "Добавить компанию",
+    "enter_company_name": "Введите имя компании",
+    "enter_user_name": "Введите имя пользователя",
+    "not_employed": "Без компании",
+    "tools": {
+        "routing_title": "Роутинг",
+        "routing_users": "Пользователи",
+        "routing_companies": "Компании",
+        "crash_title": "Экран предохранитель",
+        "crash_button_text": "Сломать приложение",
+        "internationalization_title": "Мультиязычность",
+        "internationalization_ru": "ru",
+        "internationalization_eng": "eng",
+        "pwa_title": "Базовый PWA конфиг",
+        "theming_title": "Темизация",
+        "internet_connection_handler": "Экран \"Нет интернета\"",
+        "lighthouse_title": "Зелёный Lighthouse",
+        "read_more": "Читать больше"
+    },
+    "aria-label": {
+        "home_link": "открыть главную страницу",
+        "theme_switcher": "сменить цветовую схему",
+        "copy_install": "копировать команду установки",
+        "command_copied": "команда скопирована в буфер обмена",
+        "navigate_to_users": "перейти к странице пользователей",
+        "navigate_to_companies": "перейти к странице компаний",
+        "change_language_to_ru": "сменить язык на русский",
+        "change_language_to_eng": "сменить язык на английский",
+        "link_to_article": "открыть статью о этом приложении на медиуме",
+        "author_link": "открыть github автора"
+    }
+}

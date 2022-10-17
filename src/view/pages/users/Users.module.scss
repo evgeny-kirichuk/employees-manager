@@ -1,0 +1,26 @@
+.wrapper {
+	color: var(--color-text-contrast);
+	height: 100%;
+	width: 100%;
+	display: grid;
+	grid-auto-flow: row;
+	grid-auto-rows: max-content;
+	grid-gap: var(--spacing-S);
+	grid-template-columns: 1fr;
+	justify-content: center;
+	align-content: center;
+
+	.filter {
+		display: grid;
+		grid-template-columns: max-content max-content;
+		grid-gap: var(--spacing-S);
+		align-items: center;
+		color: var(--color-text-contrast-secondary);
+
+		input,
+		label {
+			cursor: pointer;
+			user-select: none;
+		}
+	}
+}
